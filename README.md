@@ -4,3 +4,5 @@ An open repository for anyone wanting to take part in the VGDC Particle Systems 
 
 Link to the slides:
 https://docs.google.com/presentation/d/15fbKlMyalsfblXHCRAnxR8gzd02MZECqeihd4gXKwAM/edit?usp=sharing
+
+Created by Joshua Medina for the VGDC
